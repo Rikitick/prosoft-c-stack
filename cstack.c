@@ -4,7 +4,6 @@
 #include <string.h>
 
 #define UNUSED(VAR) (void)(VAR)
-
 #define MAX_STACKS 1000 // Максимальное число стеков, хранимых за раз
 
 /* Структура элемента стека */ 
